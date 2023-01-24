@@ -4,16 +4,16 @@ import './Header.css';
 
 export default function Header() {
   return (
-    <nav>
+    <nav className="nav-bar">
       <ul className="color-bar">
-        <NavLink to="/rgb/213/155/69">
-          <li className="mustard">mustard</li>
+        <NavLink to="/rgb/213/155/69" className="mustard">
+          <li>mustard</li>
         </NavLink>
-        <NavLink to="/rgb/104/158/216">
-          <li className="periwinkle">periwinkle</li>
+        <NavLink to="/rgb/104/158/216" className="periwinkle">
+          <li>periwinkle</li>
         </NavLink>
-        <NavLink to="/rgb/129/134/74">
-          <li className="olive">olive</li>
+        <NavLink to="/rgb/129/134/74" className="olive">
+          <li>olive</li>
         </NavLink>
       </ul>
     </nav>
