@@ -5,7 +5,6 @@ import './Header.css';
 export default function Header() {
   return (
     <ul className="color-bar">
-      {/* add nav link to each item */}
       <NavLink to="/rgb/213/155/69">
         <li className="mustard">mustard</li>
       </NavLink>
