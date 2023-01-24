@@ -9,7 +9,7 @@ export default function Header() {
         <NavLink to="/rgb/213/155/69" className="mustard">
           <li>mustard</li>
         </NavLink>
-        <NavLink to="/rgb/104/158/216" className="periwinkle">
+        <NavLink to="/rgb/201/214/255" className="periwinkle">
           <li>periwinkle</li>
         </NavLink>
         <NavLink to="/rgb/129/134/74" className="olive">
