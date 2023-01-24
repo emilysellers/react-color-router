@@ -3,7 +3,14 @@
   flex-direction: row;
   min-width: 100%;
   justify-content: space-around;
+  border-bottom: 1px solid grey;
 }
 .mustard {
-  background-color: rgb(184, 129, 45);
+  background-color: rgb(213, 155, 69);
+}
+.periwinkle {
+  background-color: rgb(104, 158, 216);
+}
+.olive {
+  background-color: rgb(129, 134, 74);
 }
