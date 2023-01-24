@@ -1,0 +1,9 @@
+.color-bar {
+  display: flex;
+  flex-direction: row;
+  min-width: 100%;
+  justify-content: space-around;
+}
+.mustard {
+  background-color: rgb(184, 129, 45);
+}
