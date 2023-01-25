@@ -5,10 +5,21 @@
   justify-content: flex-start;
   height: 100vh;
   min-width: 100%;
-  color: rgb(138, 0, 0);
+  color: rgb(24, 24, 24);
   font-style: italic;
   font-weight: bolder;
-  font-size: 30px;
-  padding-top: 75px;
+  font-size: 40px;
+  padding-top: 120px;
   background-color: rgb(225, 213, 213);
+
+  background-image: linear-gradient(
+    to top,
+    rgb(238, 209, 238),
+    rgb(151, 116, 177),
+    rgb(126, 126, 244),
+    rgb(149, 200, 149),
+    rgb(247, 247, 170),
+    rgb(248, 192, 88),
+    rgb(254, 140, 140)
+  );
 }

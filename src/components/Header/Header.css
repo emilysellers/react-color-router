@@ -28,6 +28,9 @@ nav a.active {
 .mustard.active {
   color: rgb(213, 155, 69);
 }
+.terracotta.active {
+  color: rgb(179, 86, 66);
+}
 
 .nav-bar {
   background-color: rgb(38, 38, 38);

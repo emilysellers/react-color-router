@@ -15,6 +15,9 @@ export default function Header() {
         <NavLink to="/rgb/129/134/74" className="olive">
           <li>olive</li>
         </NavLink>
+        <NavLink to="/rgb/179/86/66" className="terracotta">
+          <li>terracotta</li>
+        </NavLink>
       </ul>
     </nav>
   );
